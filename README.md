@@ -1,2 +1,1 @@
-# Javascript
-Tugas 3 Javascript
+# Tugas Pekanan 3_Javascript
